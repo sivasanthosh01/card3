@@ -1,0 +1,28 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	}
+.siva1{
+	text-align:center;
+	margin:auto;
+	width:30%;
+	padding:20px;
+	margin-top:10%;
+	background-color:rgb(237, 232, 232);
+	
+	
+}
+.siva1 img{
+	width:100px;
+	border:2px solid white;
+	border-radius:50%;
+	
+}
+.siva3 h1+p{
+		padding:20px;
+}
+.siva4{
+		font-style:italic;
+		color:rgb(168, 162, 162);
+}
